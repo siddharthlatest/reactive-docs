@@ -14,6 +14,6 @@
     "tests"
   ],
   "dependencies": {
-    "docbase": "https://github.com/farhan687/Docbase.git"
+    "docbase": "*"
   }
 }

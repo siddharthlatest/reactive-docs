@@ -14,6 +14,6 @@
     "tests"
   ],
   "dependencies": {
-    "docbase": "*"
+    "docbase": "~0.2.60"
   }
 }

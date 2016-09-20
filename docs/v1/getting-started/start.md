@@ -19,16 +19,9 @@ This is a quick start guide for getting up and running with your docbase project
 
 Docbase comes with a yeoman generator that does all of the above with a simple ``yo docbase`` command.
 
-**Usage**
 
-``new Appbase(appData)``
-
-- **appData** ``Object`` <br> A Javascript object containing the following fields and values
-
-  - **url** ``String`` <br> URL with the API version, always *https://scalr.api.appbase.io*
-  - **appname** ``String`` <br> name of the app as displayed in the [dashboard](https://appbase.io/scalr)
-  - **username** ``String`` <br> username as displayed in the app dashboard
-  - **password** ``String`` <br> password as displayed in the app dashboard
+- **appData** `Object` A Javascript object containing the following fields and values  
+  - **url** `String` URL with the API version, always *https://scalr.api.appbase.io*
 
 
 ```bash
